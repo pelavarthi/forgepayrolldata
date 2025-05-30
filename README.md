@@ -1,0 +1,1 @@
+This project is an example comparing and contrasting SQL and no-SQL in querying data. To run this, download everything in the data folder and use your own password and db name in the SQL folder. This includes formatting each db and example queries.
