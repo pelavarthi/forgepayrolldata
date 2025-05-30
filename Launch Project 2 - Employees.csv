@@ -1,0 +1,56 @@
+employee_id,full_name,department_id,manager_id,job_title,state
+1001,Michael Smith,1,,Chief Executive Officer,NY
+1002,Sarah Davis,1,1001,Executive Assistant,NY
+1003,Joseph Jones,1,1001,Office Manager,NY
+1004,Patricia Johnson,2,1001,Chief Financial Officer,NY
+1005,Charles Brown,2,1004,Accounting Manager,NY
+1006,Steven Miller,2,1005,Senior Accountant,NY
+1007,Jennifer Garcia,2,1005,Accountant,NY
+1008,Matthew Martinez,2,1005,Financial Analyst,NY
+1009,Linda Hernandez,2,1005,Payroll Specialist,NY
+1010,Robert Williams,3,1001,HR Manager,FL
+1011,Nancy Wilson,3,1010,HR Generalist,FL
+1012,Brian Anderson,3,1010,Recruiter,FL
+1013,Jessica Thomas,3,1010,HR Coordinator,FL
+1014,Susan Taylor,3,1010,Benefits Specialist,FL
+1015,David Moore,4,1001,Chief Technology Officer,CA
+1016,Karen Jackson,4,1015,IT Manager,CA
+1017,Ryan Martin,4,1016,Senior Software Engineer,CA
+1018,Anthony Lee,4,1016,Software Engineer,CA
+1019,Emily Perez,4,1016,Software Engineer,CA
+1020,William Thompson,4,1016,Systems Administrator,CA
+1021,Elizabeth White,4,1016,Network Engineer,CA
+1022,Mark Harris,4,1016,IT Support Specialist,CA
+1023,Sandra Sanchez,4,1016,IT Support Specialist,CA
+1024,Daniel Clark,4,1016,Database Administrator,CA
+1025,Barbara Ramirez,4,1016,Cybersecurity Analyst,CA
+1026,Paul Lewis,4,1016,DevOps Engineer,CA
+1027,Mary Robinson,5,1001,Marketing Director,IL
+1028,James Walker,5,1027,Senior Marketing Specialist,IL
+1029,Ashley Young,5,1027,Marketing Specialist,IL
+1030,Kevin Allen,5,1027,Social Media Coordinator,IL
+1031,Margaret Scott,5,1027,Content Strategist,IL
+1032,Richard Adams,5,1027,Graphic Designer,IL
+1033,Nicole Nelson,5,1027,SEO Specialist,IL
+1034,Christopher Carter,5,1027,Marketing Analyst,IL
+1035,Michelle Mitchell,5,1027,Public Relations Specialist,IL
+1036,John Rodriguez,6,1001,Sales Director,TX
+1037,Lisa Martinez,6,1036,Sales Manager (East),TX
+1038,Robert Gonzalez,6,1036,Sales Manager (West),TX
+1039,Patricia Wilson,6,1037,Senior Sales Executive,TX
+1040,Thomas Moore,6,1037,Sales Representative,TX
+1041,Karen Taylor,6,1037,Sales Representative,TX
+1042,Brian Jackson,6,1037,Sales Representative,TX
+1043,Jennifer Martin,6,1037,Account Executive,TX
+1044,Joseph Lee,6,1037,Account Executive,TX
+1045,Stephanie Perez,6,1038,Sales Associate,TX
+1046,Matthew Thompson,6,1038,Sales Associate,TX
+1047,Barbara White,6,1038,Sales Associate,TX
+1048,David Harris,6,1038,Senior Sales Executive,TX
+1049,Susan Sanchez,6,1038,Sales Representative,TX
+1050,Jessica Clark,6,1038,Sales Representative,TX
+1051,Daniel Ramirez,6,1038,Account Executive,TX
+1052,Emily Lewis,6,1038,Account Executive,TX
+1053,Mark Robinson,6,1038,Sales Associate,TX
+1054,Linda Walker,6,1038,Sales Associate,TX
+1055,Steven Young,6,1038,Sales Associate,TX

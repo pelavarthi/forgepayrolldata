@@ -1,0 +1,7 @@
+department_id,department_name,location,budget
+1,Executive,"New York, NY",1000000
+2,Finance,"New York, NY",800000
+3,Human Resources,"Miami, FL",300000
+4,IT,"San Francisco, CA",1200000
+5,Marketing,"Chicago, IL",1500000
+6,Sales,"Dallas, TX",1000000
